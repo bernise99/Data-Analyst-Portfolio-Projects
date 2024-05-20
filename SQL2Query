@@ -1,5 +1,5 @@
 -- SQL Queries for Top Ranked Canadian Companies based on Revenue in 2019
--- Data acquired from TS_Portfolio_Python4
+-- Data acquired from Portfolio_Python4
 
 -- All data
 SELECT * FROM Portfolio..CanadianCompanies
