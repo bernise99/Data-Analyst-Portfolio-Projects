@@ -3,7 +3,7 @@
     input:  password length
             Number of Digits
             Number of Symbols
-    
+
     output: password (as string)
 """
 ####################################################################################################
