@@ -16,16 +16,14 @@ Skills include:<br />
 -Python (Web Scraping, APIs, Automation, pandas, NumPy)<br />
 -SQL (Querying)
 
-## FileName: 
-    tea.py
+## tea.py
     
 For this project, I am creating a cashier calculator for a coffee shop. The purpose here was to learn how to use different functions and libraries in Python.
 
-## FileName: 
-    pieChart.py
+## pie chart.py
     
 For this project, I compared the population in Egypt and USA. This project aimed to learn how to use matplotlip by creating a pie chart.
 
-## FileName:
-    rollercoaster.py
+## rollercoaster.py
+
 This project is part of the Codecademy Data Analyst Career Path.
