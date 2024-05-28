@@ -1,8 +1,3 @@
-/*
-Jas Sohi - Pivotal Tracker Database - Data Analyst Internship Project
-January 22, 2015
-*/
-
 USE master --Use Master database
 
 --Check for existence of existing database objects
